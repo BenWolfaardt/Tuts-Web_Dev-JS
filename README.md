@@ -72,4 +72,5 @@ The following is an approach to implement **monorepos** as found [here](https://
 
 * // TODO: more tutorials;  
 * // TODO: update individual tutorial's `README.md`;  
+* // TODO: the official [Next.js tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
 * // TODO: learn so that we can get a temporary template up and running for [benwolfaardt.com](https://benwolfaardt.com);  
