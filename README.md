@@ -2,4 +2,6 @@
 
 source: [here](https://dev.to/sumitkolhe/going-serveless-with-vercel-5b4o)
 
-first `npm init`
+`npm init`
+`npm install axios`
+`mkdir api`
