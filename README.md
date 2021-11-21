@@ -6,7 +6,7 @@ source: [here](https://dev.to/sumitkolhe/going-serveless-with-vercel-5b4o)
 `npm install axios`  
 `mkdir api`  
 
-code for index.js
+code for index.js that should be inserted into the api directory
 ```js
 const axios = require("axios"); 
 
