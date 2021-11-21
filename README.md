@@ -7,7 +7,7 @@ source: [here](https://dev.to/sumitkolhe/going-serveless-with-vercel-5b4o)
 `mkdir api`  
 
 code for index.js
-``js
+```js
 const axios = require("axios"); 
 
 module.exports = (req, res) => {
