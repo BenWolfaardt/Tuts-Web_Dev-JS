@@ -10,8 +10,8 @@ The branches, i.e. tutorials, that I have completed so far are as follows:
 1. [MongoDB-MERN_stack_evolved_Express_to_MongoDB_Realm](https://github.com/BenWolfaardt/Tuts-Web_Dev-JS/tree/01-MongoDB-MERN_stack_evolved_Express_to_MongoDB_Realm) - [source](https://www.youtube.com/watch?v=jJmrrVqVdUM) | completed: 06/10/2020
 2. [Traversy_Media-NodeJS_tutorial_for_absolute_beginners](https://github.com/BenWolfaardt/Tuts-Web_Dev-JS/tree/02-Traversy_Media-NodeJS_tutorial_for_absolute_beginners) - [source](https://www.youtube.com/watch?v=U8XF6AFGqlc) | completed: 07/01/2021
 3. [Traversy_Media-Express_JS_crash_course](https://github.com/BenWolfaardt/Tuts-Web_Dev-JS/tree/03-Traversy_Media-Express_JS_crash_course) - [source](https://www.youtube.com/watch?v=L72fhGm1tfE) |  completed: 27/02/2021
-<!-- 4. []() - [source]()
-5. []() - [source]()
+4. [Dev.to-Going_serverless_with_Vercel](https://github.com/BenWolfaardt/Tuts-Web_Dev-JS/tree/04-Dev.to-Going_serverless_with_Vercel) - [source](https://dev.to/sumitkolhe/going-serveless-with-vercel-5b4o) |  completed: 20/11/2021
+<!-- 5. []() - [source]()
 6. []() - [source]()
 7. []() - [source]()
 8. []() - [source]()
