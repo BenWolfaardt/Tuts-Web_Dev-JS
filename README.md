@@ -1,6 +1,6 @@
 # (Tuts) Web Development - JavaScript
 
-This repository contains various tutorials that I have worked through in order to increase my skills in the web development field, with a particular focus on `JavaScript` such as to improve my general knowledge and become more aquanted with JavaScript as well as to learn how to implement cool features for my personal website: [benwolfaardt.com](https://benwolfaardt.com) (comming soon!)
+This repository contains various tutorials that I have worked through in order to increase my skills in the web development field, with a particular focus on `JavaScript` such as to improve my general knowledge and become more aquanted with JavaScript as well as to learn how to implement cool features for my personal website: [BenWolfaardt.com](http://benwolfaardt.com) (visit now!)
 
 As not to ocupy too many repositories with "tutorials" I've decided to group them into a single repository by making use of the `git`'s *`orphan`* command - allowing you to have independent branches with their own independant `git` history.
 
@@ -70,7 +70,7 @@ The following is an approach to implement **monorepos** as found [here](https://
 
 # TODO
 
-* // TODO: more tutorials;  
-* // TODO: update individual tutorial's `README.md`;  
-* // TODO: the official [Next.js tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
-* // TODO: learn so that we can get a temporary template up and running for [benwolfaardt.com](https://benwolfaardt.com);  
+- [ ] // TODO: more tutorials;  
+- [ ] // TODO: update individual tutorial's `README.md`;  
+- [ ] // TODO: the official [Next.js tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
+- [x] // TODO: learn so that we can get a temporary template up and running for [BenWolfaardt.com](http://benwolfaardt.com) (visit now!)
